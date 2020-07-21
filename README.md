@@ -1,7 +1,7 @@
 Dice Game
 ======
 
-https://jordanmwebb.github.io/dice-game/
+https://jordanmwebb.github.io/dice-game-js/
 
 #### Fun game that allows two players to roll dice and score points. Win by being the first one to score 100!
 
